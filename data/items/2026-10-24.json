@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1f6056f34e61a5ea",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "excerpt": "",
+    "author": "gnabgib",
+    "published_at": "2026-10-24T23:11:54Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 537,
+      "hn_comments": 575
+    }
+  },
+  {
+    "id": "49270cf8389d73cc",
+    "source_id": "github-trending-ai",
+    "source_name": "GitHub Trending",
+    "source_tier": 3,
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "title": "hevnsnt/CVEngine: AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "excerpt": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "author": "hevnsnt",
+    "published_at": "2026-10-24T22:34:43Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "github_stars": 359
+    },
+    "repo_url": "https://github.com/hevnsnt/CVEngine"
+  },
+  {
+    "id": "b9668613fcaa6190",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://ratfactor.com/cards/limitations",
+    "title": "The Importance of Limitations for Creativity and Learning (2023)",
+    "excerpt": "",
+    "author": "andsoitis",
+    "published_at": "2026-10-24T21:42:47Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 119,
+      "hn_comments": 40
+    }
+  },
+  {
+    "id": "36111d6bc6b4991f",
+    "source_id": "theverge-ai",
+    "source_name": "The Verge AI",
+    "source_tier": 4,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "excerpt": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too…",
+    "author": "Terrence O’Brien",
+    "published_at": "2026-10-24T21:29:12Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "8988f05b23400e8d",
+    "source_id": "techcrunch-ai",
+    "source_name": "TechCrunch AI",
+    "source_tier": 4,
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "author": "Anthony Ha",
+    "published_at": "2026-10-24T20:15:33Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "a54fd0e20dbb9046",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "title": "No signs of AI payoff outside the tech sector",
+    "excerpt": "",
+    "author": "the-mitr",
+    "published_at": "2026-10-24T19:47:19Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 637,
+      "hn_comments": 666
+    }
+  }
+]

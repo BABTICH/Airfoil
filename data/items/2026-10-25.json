@@ -1,0 +1,467 @@
+[
+  {
+    "id": "150d28c3d7aecb00",
+    "source_id": "reddit-localllama",
+    "source_name": "r/LocalLLaMA",
+    "source_tier": 5,
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhm4/smh_seriously_nvidia_eyes_software_revenue_with_a",
+    "title": "SMH, seriously? --\u003e\u003e NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+    "excerpt": "submitted by /u/chemist_slime [link] [comments]",
+    "author": "/u/chemist_slime",
+    "published_at": "2026-10-25T23:46:05Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "b3d2d5d5b19cae50",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+    "excerpt": "",
+    "author": "levzettelin",
+    "published_at": "2026-10-25T22:49:06Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 69,
+      "hn_comments": 46
+    }
+  },
+  {
+    "id": "f5cb82d0af76a465",
+    "source_id": "reddit-localllama",
+    "source_name": "r/LocalLLaMA",
+    "source_tier": 5,
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm",
+    "title": "CrowdGPT - A collaboratively trained LLM.",
+    "excerpt": "Hello, I'm developing CrowdGPT, a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, with a protocol where everyone gets a say in the direction the…",
+    "author": "/u/Vxtzq1",
+    "published_at": "2026-10-25T22:07:17Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {},
+    "repo_url": "https://github.com/Vxtzq/CrowdGPT"
+  },
+  {
+    "id": "912d0050e8fe565d",
+    "source_id": "techcrunch-ai",
+    "source_name": "TechCrunch AI",
+    "source_tier": 4,
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "author": "Anthony Ha",
+    "published_at": "2026-10-25T21:31:16Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "240888442444abd5",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://minimaxir.com/2026/10/cheap-llms",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "excerpt": "",
+    "author": "minimaxir",
+    "published_at": "2026-10-25T21:11:31Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 401,
+      "hn_comments": 406
+    }
+  },
+  {
+    "id": "1586649ea7227b24",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "title": "Eunice is almost here",
+    "excerpt": "",
+    "author": "armcat",
+    "published_at": "2026-10-25T19:40:27Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 80,
+      "hn_comments": 76
+    }
+  },
+  {
+    "id": "e9453ced755ddd12",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://iosiflazaridis.github.io/battles-of-the-romans",
+    "title": "Where the Romans Fought (interactive map)",
+    "excerpt": "",
+    "author": "endorphine",
+    "published_at": "2026-10-25T18:58:14Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 142,
+      "hn_comments": 54
+    }
+  },
+  {
+    "id": "763e1f9af6867224",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "excerpt": "",
+    "author": "hacker_v_s",
+    "published_at": "2026-10-25T18:42:23Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 80,
+      "hn_comments": 45
+    }
+  },
+  {
+    "id": "b83204b7e9c12d9e",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "excerpt": "",
+    "author": "sungam",
+    "published_at": "2026-10-25T17:15:38Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 648,
+      "hn_comments": 267
+    }
+  },
+  {
+    "id": "d03ffdd599af5cda",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://gp-64.com/swr",
+    "title": "Sabre Wulf Remastered",
+    "excerpt": "",
+    "author": "adunk",
+    "published_at": "2026-10-25T17:15:16Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 60,
+      "hn_comments": 10
+    }
+  },
+  {
+    "id": "79ffda0a470cc0fd",
+    "source_id": "techcrunch-ai",
+    "source_name": "TechCrunch AI",
+    "source_tier": 4,
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "author": "Anthony Ha",
+    "published_at": "2026-10-25T16:57:32Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "ba5e4361d7c98821",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+    "title": "A mathematician reads the AI future",
+    "excerpt": "",
+    "author": "artninja1988",
+    "published_at": "2026-10-25T16:31:21Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 68,
+      "hn_comments": 116
+    }
+  },
+  {
+    "id": "857f9c868190eef5",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "excerpt": "",
+    "author": "romanhn",
+    "published_at": "2026-10-25T16:28:26Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 230,
+      "hn_comments": 327
+    }
+  },
+  {
+    "id": "0acf196572ceb07e",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://github.com/JetBrains/thinkrail",
+    "title": "JetBrains Thinkrail",
+    "excerpt": "",
+    "author": "hmokiguess",
+    "published_at": "2026-10-25T16:27:12Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 233,
+      "hn_comments": 169
+    },
+    "repo_url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "id": "f0c80d5858e06e75",
+    "source_id": "techcrunch-ai",
+    "source_name": "TechCrunch AI",
+    "source_tier": 4,
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "author": "Lauren Forristal",
+    "published_at": "2026-10-25T14:10:00Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "2ee6ebbf1abb5555",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+    "title": "R/open source bans all solo projects and projects using LLMs",
+    "excerpt": "",
+    "author": "schleck8",
+    "published_at": "2026-10-25T14:05:03Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 90,
+      "hn_comments": 128
+    }
+  },
+  {
+    "id": "9738c85c5733ec46",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://github.com/winnin/farol",
+    "title": "Show HN: Farol – A risk map of a pull request for the person who approves it",
+    "excerpt": "",
+    "author": "ericholiveira",
+    "published_at": "2026-10-25T13:28:06Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 60,
+      "hn_comments": 43
+    },
+    "repo_url": "https://github.com/winnin/farol"
+  },
+  {
+    "id": "b411fbb2487aa2da",
+    "source_id": "theverge-ai",
+    "source_name": "The Verge AI",
+    "source_tier": 4,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "excerpt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to…",
+    "author": "Terrence O’Brien",
+    "published_at": "2026-10-25T13:25:32Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "ddfb94f39367a118",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+    "title": "US inequality is getting worse in ways you might not expect",
+    "excerpt": "",
+    "author": "JKCalhoun",
+    "published_at": "2026-10-25T13:24:37Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 85,
+      "hn_comments": 153
+    }
+  },
+  {
+    "id": "3445f19e86883596",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+    "title": "Imagine an AI future where being banned means you are now economically useless",
+    "excerpt": "",
+    "author": "MrBuddyCasino",
+    "published_at": "2026-10-25T12:47:20Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 98,
+      "hn_comments": 78
+    }
+  },
+  {
+    "id": "ab1f7cff37722d46",
+    "source_id": "theverge-ai",
+    "source_name": "The Verge AI",
+    "source_tier": 4,
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "title": "Google’s AI search changes upended online publishing",
+    "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing…",
+    "author": "Emma Roth",
+    "published_at": "2026-10-25T12:00:00Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {}
+  },
+  {
+    "id": "9282e3edfd40c3e3",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://github.com/ihhub/fheroes2",
+    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+    "excerpt": "",
+    "author": "tosh",
+    "published_at": "2026-10-25T11:09:12Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 213,
+      "hn_comments": 73
+    },
+    "repo_url": "https://github.com/ihhub/fheroes2"
+  },
+  {
+    "id": "7836bad8e3afc7ed",
+    "source_id": "github-trending-ai",
+    "source_name": "GitHub Trending",
+    "source_tier": 3,
+    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "title": "DenisSergeevitch/ex-ussr-kinship-research: Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "excerpt": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "author": "DenisSergeevitch",
+    "published_at": "2026-10-25T10:05:56Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "github_stars": 746
+    },
+    "repo_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+  },
+  {
+    "id": "3d3a3797f36f7203",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "excerpt": "",
+    "author": "thunderbong",
+    "published_at": "2026-10-25T09:51:17Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 144,
+      "hn_comments": 87
+    }
+  },
+  {
+    "id": "2b2e6bd3436f4031",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://github.com/slee-persis/GVS5H",
+    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "excerpt": "",
+    "author": "rzk",
+    "published_at": "2026-10-25T03:56:01Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 184,
+      "hn_comments": 75
+    },
+    "repo_url": "https://github.com/slee-persis/GVS5H"
+  },
+  {
+    "id": "cdf18f1ab6e7993f",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://github.com/notaroomba/keybytes",
+    "title": "Show HN: A Truly Modular Keyboard",
+    "excerpt": "",
+    "author": "NotARoomba",
+    "published_at": "2026-10-25T03:47:56Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 262,
+      "hn_comments": 93
+    },
+    "repo_url": "https://github.com/notaroomba/keybytes"
+  },
+  {
+    "id": "a69d0a9b77cb6238",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
+    "title": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
+    "excerpt": "",
+    "author": "zzzeek",
+    "published_at": "2026-10-25T01:40:01Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 52,
+      "hn_comments": 18
+    }
+  },
+  {
+    "id": "e1545bcc45f4c70b",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "excerpt": "",
+    "author": "gmays",
+    "published_at": "2026-10-25T01:33:49Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 363,
+      "hn_comments": 140
+    }
+  },
+  {
+    "id": "00f9a35730188d0a",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://huggingface.co/destined/hurston-1",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "excerpt": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted…",
+    "author": "Gcarter08",
+    "published_at": "2026-10-25T01:30:13Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 63,
+      "hn_comments": 25
+    }
+  },
+  {
+    "id": "12bb42da449f6fd6",
+    "source_id": "hn",
+    "source_name": "Hacker News",
+    "source_tier": 5,
+    "url": "https://adrs.systems",
+    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "excerpt": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do oversight and what do oversight of and this is solved through the ORRCF (for Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models…",
+    "author": "lumbroso",
+    "published_at": "2026-10-25T00:43:47Z",
+    "fetched_at": "2026-10-26T19:39:42.7438434Z",
+    "metrics": {
+      "hn_points": 62,
+      "hn_comments": 52
+    }
+  }
+]
